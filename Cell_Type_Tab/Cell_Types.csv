@@ -1,0 +1,1109 @@
+Region,Cell_Type,n_cell,P_val(association),P_val(heterogeneity)
+AMY_BLN_BL,astrocyte,1057,0.10889111,0.04195804
+AMY_BLN_BL,central nervous system macrophage,278,0.11888112,0.39060938
+AMY_BLN_BL,endothelial cell,40,0.005994006,0.056943055
+AMY_BLN_BL,ependymal cell,139,0.0959041,0.13386613
+AMY_BLN_BL,fibroblast,43,0.21578422,0.47252747
+AMY_BLN_BL,leukocyte,8,0.04795205,0.56443554
+AMY_BLN_BL,neuron,30681,0.6083916,0.42057943
+AMY_BLN_BL,oligodendrocyte,2233,0.16283716,0.35264736
+AMY_BLN_BL,oligodendrocyte precursor cell,780,0.5724276,0.12087912
+AMY_BLN_BL,pericyte,19,0.0989011,0.35464534
+AMY_BLN_BL,vascular associated smooth muscle cell,7,0.03196803,0.024975024
+AMY_BLN_BM,astrocyte,1099,0.056943055,0.05994006
+AMY_BLN_BM,central nervous system macrophage,507,0.09290709,0.25674325
+AMY_BLN_BM,endothelial cell,44,0.014985015,0.008991009
+AMY_BLN_BM,ependymal cell,5,0.27972028,0.975025
+AMY_BLN_BM,fibroblast,45,0.27572426,0.6073926
+AMY_BLN_BM,leukocyte,14,0.006993007,0.121878125
+AMY_BLN_BM,neuron,26270,0.6293706,0.41958043
+AMY_BLN_BM,oligodendrocyte,2032,0.16083916,0.16983017
+AMY_BLN_BM,oligodendrocyte precursor cell,1060,0.5014985,0.02097902
+AMY_BLN_BM,pericyte,12,0.02097902,0.4955045
+AMY_BLN_BM,vascular associated smooth muscle cell,2,0.6923077,NA
+AMY_BLN,astrocyte,863,0.025974026,0.0999001
+AMY_BLN,central nervous system macrophage,240,0.2007992,0.82617384
+AMY_BLN,endothelial cell,11,0.00999001,0.85114884
+AMY_BLN,ependymal cell,17,0.4045954,0.066933066
+AMY_BLN,fibroblast,34,0.13286713,0.63536465
+AMY_BLN,leukocyte,4,0.002997003,0.47452548
+AMY_BLN,neuron,24560,0.86613387,0.8051948
+AMY_BLN,oligodendrocyte,2883,0.15884116,0.7732268
+AMY_BLN,oligodendrocyte precursor cell,365,0.36363637,0.9050949
+AMY_BLN,pericyte,7,0.008991009,0.56443554
+AMY_CEN,astrocyte,2387,0.15184815,0.2117882
+AMY_CEN,central nervous system macrophage,1951,0.27272728,0.22077923
+AMY_CEN,endothelial cell,28,0.004995005,0.42457542
+AMY_CEN,ependymal cell,29,0.34765235,0.0959041
+AMY_CEN,fibroblast,51,0.20979021,0.19480519
+AMY_CEN,leukocyte,39,0.043956045,0.95004994
+AMY_CEN,neuron,30013,0.43356642,0.23276724
+AMY_CEN,oligodendrocyte,5136,0.27872127,0.4955045
+AMY_CEN,oligodendrocyte precursor cell,3032,0.6943057,0.08191808
+AMY_CEN,pericyte,22,0.021978023,0.7192807
+AMY_CEN,vascular associated smooth muscle cell,11,0.024975024,0.81918085
+AMY_CMN_CoA,astrocyte,924,0.13786213,0.003996004
+AMY_CMN_CoA,central nervous system macrophage,156,0.14285715,0.34665334
+AMY_CMN_CoA,endothelial cell,19,0.030969031,0.011988012
+AMY_CMN_CoA,fibroblast,27,0.24775225,0.01998002
+AMY_CMN_CoA,leukocyte,14,0.003996004,0.033966035
+AMY_CMN_CoA,neuron,8288,0.7102897,0.52547455
+AMY_CMN_CoA,oligodendrocyte,820,0.2927073,0.09290709
+AMY_CMN_CoA,oligodendrocyte precursor cell,514,0.54145855,0.5714286
+AMY_CMN_CoA,pericyte,11,0.061938062,0.45654345
+AMY_CMN_CoA,vascular associated smooth muscle cell,5,0.08191808,0.6453546
+AMY_CMN,astrocyte,1173,0.04695305,0.02897103
+AMY_CMN,central nervous system macrophage,393,0.2947053,0.09190809
+AMY_CMN,endothelial cell,60,0.02097902,0.08391608
+AMY_CMN,ependymal cell,65,0.016983017,0.02097902
+AMY_CMN,fibroblast,63,0.18281718,0.82417583
+AMY_CMN,leukocyte,7,0.054945055,0.54745257
+AMY_CMN,neuron,34358,0.8201798,0.8841159
+AMY_CMN,oligodendrocyte,1535,0.2927073,0.5154845
+AMY_CMN,oligodendrocyte precursor cell,662,0.45254746,0.76123875
+AMY_CMN,pericyte,8,0.06393606,0.3096903
+AMY_CMN,vascular associated smooth muscle cell,7,0.09090909,0.44955045
+BF_SEP,Bergmann glial cell,1,0.53046954,NA
+BF_SEP,astrocyte,3216,0.11188811,0.061938062
+BF_SEP,central nervous system macrophage,1213,0.07492507,0.066933066
+BF_SEP,choroid plexus epithelial cell,6116,0.57942057,0.22977023
+BF_SEP,endothelial cell,142,0.005994006,0.4855145
+BF_SEP,ependymal cell,772,0.05894106,0.027972028
+BF_SEP,fibroblast,651,0.16083916,0.10689311
+BF_SEP,leukocyte,72,0.038961038,0.67432564
+BF_SEP,neuron,20447,0.3986014,0.36863136
+BF_SEP,oligodendrocyte,6156,0.5944056,0.73826176
+BF_SEP,oligodendrocyte precursor cell,1938,0.83316684,0.25574425
+BF_SEP,pericyte,49,0.05794206,0.0989011
+BF_SEP,vascular associated smooth muscle cell,42,0.04095904,0.17082918
+BF_SI,astrocyte,1060,0.20379621,0.4125874
+BF_SI,central nervous system macrophage,465,0.24075924,0.26873127
+BF_SI,endothelial cell,17,0.12587413,0.3056943
+BF_SI,ependymal cell,1,0.20779221,NA
+BF_SI,fibroblast,59,0.41658342,0.21478522
+BF_SI,leukocyte,13,0.23376623,0.04695305
+BF_SI,neuron,33357,0.7332667,0.8721279
+BF_SI,oligodendrocyte,2558,0.27772227,0.84415585
+BF_SI,oligodendrocyte precursor cell,655,0.5964036,0.35264736
+BF_SI,pericyte,11,0.023976024,0.43856144
+BF_SI,vascular associated smooth muscle cell,9,0.1978022,0.2957043
+BN_CaB,astrocyte,753,0.03196803,0.09290709
+BN_CaB,central nervous system macrophage,181,0.005994006,0.11788212
+BN_CaB,endothelial cell,8,0.022977022,0.74925077
+BN_CaB,ependymal cell,113,0.002997003,0.6293706
+BN_CaB,fibroblast,16,0.56643355,0.6083916
+BN_CaB,leukocyte,2,0.1878122,0.000999001
+BN_CaB,neuron,29889,0.8751249,0.3986014
+BN_CaB,oligodendrocyte,1297,0.0959041,0.7112887
+BN_CaB,oligodendrocyte precursor cell,406,0.3986014,0.24975026
+BN_CaB,pericyte,9,0.08991009,0.18381618
+BN_CaB,vascular associated smooth muscle cell,4,0.005994006,0.31968033
+BN_GP_GPe,Bergmann glial cell,1,0.44555444,NA
+BN_GP_GPe,astrocyte,3219,0.06993007,0.13286713
+BN_GP_GPe,central nervous system macrophage,5438,0.11588412,0.014985015
+BN_GP_GPe,endothelial cell,78,0.043956045,0.65634364
+BN_GP_GPe,fibroblast,217,0.18681319,0.4125874
+BN_GP_GPe,leukocyte,133,0.013986014,0.25074926
+BN_GP_GPe,neuron,15129,0.65334666,0.48051947
+BN_GP_GPe,oligodendrocyte,24626,0.6363636,0.16683316
+BN_GP_GPe,oligodendrocyte precursor cell,1876,0.7132867,0.021978023
+BN_GP_GPe,pericyte,92,0.27772227,0.44355646
+BN_GP_GPe,vascular associated smooth muscle cell,21,0.08691309,0.5494506
+BN_GP_GPi,astrocyte,8675,0.6863137,0.23476523
+BN_GP_GPi,central nervous system macrophage,11345,0.2907093,0.022977022
+BN_GP_GPi,endothelial cell,37,0.023976024,0.84415585
+BN_GP_GPi,fibroblast,152,0.7672328,0.3106893
+BN_GP_GPi,leukocyte,215,0.00999001,0.7742258
+BN_GP_GPi,neuron,1511,0.12987013,0.35664335
+BN_GP_GPi,oligodendrocyte,10709,0.76423573,0.04795205
+BN_GP_GPi,oligodendrocyte precursor cell,1133,0.5444555,0.15984017
+BN_GP_GPi,pericyte,172,0.1968032,0.7312687
+BN_GP_GPi,vascular associated smooth muscle cell,19,0.053946055,0.7862138
+BN_NAC,astrocyte,707,0.12287712,0.026973028
+BN_NAC,central nervous system macrophage,166,0.18881118,0.64435565
+BN_NAC,endothelial cell,2,0.1878122,NA
+BN_NAC,ependymal cell,94,0.022977022,0.021978023
+BN_NAC,fibroblast,10,0.14485514,0.10889111
+BN_NAC,leukocyte,6,0.011988012,0.8091908
+BN_NAC,neuron,27406,0.26273727,0.22477522
+BN_NAC,oligodendrocyte,1188,0.24375625,0.12687312
+BN_NAC,oligodendrocyte precursor cell,538,0.37062937,0.4755245
+BN_NAC,pericyte,6,0.36963037,0.4865135
+BN_NAC,vascular associated smooth muscle cell,9,0.16883117,0.72727275
+BN_Pu,astrocyte,865,0.22077923,0.91808194
+BN_Pu,central nervous system macrophage,291,0.21578422,0.055944055
+BN_Pu,endothelial cell,22,0.026973028,0.0989011
+BN_Pu,fibroblast,58,0.12487513,0.33166832
+BN_Pu,leukocyte,18,0.002997003,0.055944055
+BN_Pu,neuron,30723,0.8291708,0.6773227
+BN_Pu,oligodendrocyte,2017,0.10689311,0.16183816
+BN_Pu,oligodendrocyte precursor cell,398,0.47352648,0.976024
+BN_Pu,pericyte,20,0.14485514,0.26973027
+BN_Pu,vascular associated smooth muscle cell,4,0.36363637,0.0979021
+CB_CbDN,Bergmann glial cell,19,0.6073926,0.22177823
+CB_CbDN,astrocyte,6267,0.20879121,0.054945055
+CB_CbDN,central nervous system macrophage,3304,0.16983017,0.007992008
+CB_CbDN,choroid plexus epithelial cell,2,0.27872127,0.000999001
+CB_CbDN,endothelial cell,60,0.000999001,0.05294705
+CB_CbDN,ependymal cell,17,0.14985014,0.8631369
+CB_CbDN,fibroblast,182,0.17182817,0.33266732
+CB_CbDN,leukocyte,238,0.08591408,0.04795205
+CB_CbDN,neuron,23155,0.27972028,0.2917083
+CB_CbDN,oligodendrocyte,16991,0.8931069,0.4055944
+CB_CbDN,oligodendrocyte precursor cell,1729,0.7442557,0.36463538
+CB_CbDN,pericyte,67,0.12487513,0.18881118
+CB_CbDN,vascular associated smooth muscle cell,14,0.14185815,0.16683316
+CB_CBL,Bergmann glial cell,1070,0.41658342,0.7202797
+CB_CBL,astrocyte,108,0.044955045,0.13586414
+CB_CBL,central nervous system macrophage,241,0.22377622,0.03996004
+CB_CBL,endothelial cell,34,0.09090909,0.47952047
+CB_CBL,fibroblast,69,0.2917083,0.5134865
+CB_CBL,leukocyte,11,0.23576424,0.6503497
+CB_CBL,neuron,24799,0.72527474,0.31968033
+CB_CBL,oligodendrocyte,1105,0.7242757,0.7132867
+CB_CBL,oligodendrocyte precursor cell,564,0.6993007,0.8131868
+CB_CBL,pericyte,25,0.20779221,0.7822178
+CB_CBL,vascular associated smooth muscle cell,2,0.015984016,NA
+CB_CBV,Bergmann glial cell,6614,0.38861138,0.7962038
+CB_CBV,astrocyte,203,0.04895105,0.077922076
+CB_CBV,central nervous system macrophage,1431,0.14285715,0.010989011
+CB_CBV,endothelial cell,278,0.035964034,0.16883117
+CB_CBV,ependymal cell,1,0.035964034,NA
+CB_CBV,fibroblast,173,0.1978022,0.116883114
+CB_CBV,leukocyte,61,0.12687312,0.8721279
+CB_CBV,neuron,54680,0.2957043,0.04995005
+CB_CBV,oligodendrocyte,4387,0.6843157,0.97902095
+CB_CBV,oligodendrocyte precursor cell,3862,0.81518483,0.7802198
+CB_CBV,pericyte,176,0.07192807,0.037962038
+CB_CBV,vascular associated smooth muscle cell,8,0.004995005,0.044955045
+Cla,astrocyte,2663,0.030969031,0.07292707
+Cla,central nervous system macrophage,887,0.13386613,0.42657343
+Cla,endothelial cell,18,0.018981019,0.4755245
+Cla,fibroblast,68,0.13786213,0.43256745
+Cla,leukocyte,76,0.02097902,0.6233766
+Cla,neuron,27853,0.6293706,0.23476523
+Cla,oligodendrocyte,7591,0.33566433,0.5494506
+Cla,oligodendrocyte precursor cell,998,0.6883117,0.4945055
+Cla,pericyte,11,0.13886113,0.53846157
+Cx_AG_LEC,astrocyte,820,0.03696304,0.003996004
+Cx_AG_LEC,central nervous system macrophage,345,0.11888112,0.04695305
+Cx_AG_LEC,endothelial cell,4,0.005994006,0.2927073
+Cx_AG_LEC,fibroblast,36,0.22577423,0.91608393
+Cx_AG_LEC,leukocyte,15,0.015984016,0.00999001
+Cx_AG_LEC,neuron,29852,0.7972028,0.74025977
+Cx_AG_LEC,oligodendrocyte,1208,0.0999001,0.66033965
+Cx_AG_LEC,oligodendrocyte precursor cell,452,0.26773226,0.013986014
+Cx_AG_LEC,pericyte,9,0.018981019,0.63336664
+Cx_AG_LEC,vascular associated smooth muscle cell,4,0.4145854,0.83016986
+Cx_APH_MEC,astrocyte,990,0.062937066,0.023976024
+Cx_APH_MEC,central nervous system macrophage,437,0.20379621,0.034965035
+Cx_APH_MEC,endothelial cell,8,0.030969031,0.64435565
+Cx_APH_MEC,fibroblast,42,0.37162837,0.73026973
+Cx_APH_MEC,leukocyte,8,0.08591408,0.8521479
+Cx_APH_MEC,neuron,46874,0.8131868,0.9010989
+Cx_APH_MEC,oligodendrocyte,1533,0.064935066,0.24175824
+Cx_APH_MEC,oligodendrocyte precursor cell,457,0.37262738,0.27572426
+Cx_APH_MEC,pericyte,8,0.14285715,0.04295704
+Cx_APH_MEC,vascular associated smooth muscle cell,5,0.000999001,0.3026973
+Cx_CgGC_A2,astrocyte,759,0.21478522,0.16183816
+Cx_CgGC_A2,central nervous system macrophage,118,0.08891109,0.63136864
+Cx_CgGC_A2,endothelial cell,9,0.18181819,0.02097902
+Cx_CgGC_A2,fibroblast,18,0.11588412,0.8931069
+Cx_CgGC_A2,leukocyte,4,0.03196803,0.35064936
+Cx_CgGC_A2,neuron,32979,0.77722275,0.8591409
+Cx_CgGC_A2,oligodendrocyte,1161,0.27272728,0.66733265
+Cx_CgGC_A2,oligodendrocyte precursor cell,303,0.4985015,0.65534467
+Cx_CgGC_A2,pericyte,6,0.10989011,0.52347654
+Cx_CgGC_A2,vascular associated smooth muscle cell,2,0.022977022,0.000999001
+Cx_CgGrs,astrocyte,637,0.25974026,0.2027972
+Cx_CgGrs,central nervous system macrophage,46,0.11588412,0.21878122
+Cx_CgGrs,endothelial cell,4,0.030969031,0.15184815
+Cx_CgGrs,fibroblast,11,0.06393606,0.3046953
+Cx_CgGrs,leukocyte,2,0.5714286,0.000999001
+Cx_CgGrs,neuron,31649,0.38161838,0.56443554
+Cx_CgGrs,oligodendrocyte,1488,0.27872127,0.21278721
+Cx_CgGrs,oligodendrocyte precursor cell,234,0.5074925,0.95404595
+Cx_CgGrs,pericyte,7,0.24975026,0.24875125
+Cx_CgGrs_Ventral_division_MFC,astrocyte,783,0.14085914,0.55344653
+Cx_CgGrs_Ventral_division_MFC,central nervous system macrophage,552,0.16183816,0.34365633
+Cx_CgGrs_Ventral_division_MFC,endothelial cell,17,0.03996004,0.93806195
+Cx_CgGrs_Ventral_division_MFC,fibroblast,27,0.2827173,0.46953046
+Cx_CgGrs_Ventral_division_MFC,leukocyte,10,0.00999001,0.4135864
+Cx_CgGrs_Ventral_division_MFC,neuron,28494,0.76823175,0.8881119
+Cx_CgGrs_Ventral_division_MFC,oligodendrocyte,1761,0.24575424,0.997003
+Cx_CgGrs_Ventral_division_MFC,oligodendrocyte precursor cell,506,0.5154845,0.98002
+Cx_CgGrs_Ventral_division_MFC,pericyte,3,0.033966035,0.000999001
+Cx_CgGrs_Ventral_division_MFC,vascular associated smooth muscle cell,4,0.18681319,0.8121878
+Cx_Cuneus_caudal_part_Peristriate_Cortex,astrocyte,903,0.21378621,0.2937063
+Cx_Cuneus_caudal_part_Peristriate_Cortex,central nervous system macrophage,235,0.13286713,0.8631369
+Cx_Cuneus_caudal_part_Peristriate_Cortex,endothelial cell,31,0.1028971,0.056943055
+Cx_Cuneus_caudal_part_Peristriate_Cortex,fibroblast,32,0.28671327,0.8871129
+Cx_Cuneus_caudal_part_Peristriate_Cortex,leukocyte,7,0.011988012,0.86013985
+Cx_Cuneus_caudal_part_Peristriate_Cortex,neuron,29649,0.36763236,0.73626375
+Cx_Cuneus_caudal_part_Peristriate_Cortex,oligodendrocyte,1375,0.32367632,0.41658342
+Cx_Cuneus_caudal_part_Peristriate_Cortex,oligodendrocyte precursor cell,391,0.6883117,0.24575424
+Cx_Cuneus_caudal_part_Peristriate_Cortex,pericyte,12,0.31668332,0.6683317
+Cx_Cuneus_caudal_part_Peristriate_Cortex,vascular associated smooth muscle cell,3,0.08491509,0.16783217
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,astrocyte,728,0.037962038,0.13486513
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,central nervous system macrophage,306,0.10489511,0.7752248
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,endothelial cell,17,0.068931065,0.7152847
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,fibroblast,12,0.37362638,0.85514486
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,leukocyte,7,0.35864136,0.9480519
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,neuron,25284,0.5204795,0.5994006
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,oligodendrocyte,1257,0.110889114,0.85514486
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,oligodendrocyte precursor cell,432,0.62237763,0.54545456
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,pericyte,7,0.57342654,0.94205797
+Cx_Cuneus_rostralpart_Area_Prostriata_Pro,vascular associated smooth muscle cell,1,0.8771229,NA
+Cx_FI,astrocyte,622,0.017982017,0.016983017
+Cx_FI,central nervous system macrophage,341,0.1028971,0.14685315
+Cx_FI,endothelial cell,40,0.03996004,0.18881118
+Cx_FI,fibroblast,39,0.09490509,0.27672327
+Cx_FI,leukocyte,4,0.000999001,0.9040959
+Cx_FI,neuron,32607,0.6983017,0.8761239
+Cx_FI,oligodendrocyte,690,0.14785215,0.15384616
+Cx_FI,oligodendrocyte precursor cell,580,0.33566433,0.7052947
+Cx_FI,pericyte,17,0.005994006,0.3926074
+Cx_FI,vascular associated smooth muscle cell,9,0.16783217,0.026973028
+Cx_FuGt,astrocyte,693,0.07892108,0.62637365
+Cx_FuGt,central nervous system macrophage,219,0.043956045,0.5404595
+Cx_FuGt,endothelial cell,9,0.014985015,0.07892108
+Cx_FuGt,fibroblast,16,0.28671327,0.24575424
+Cx_FuGt,leukocyte,10,0.008991009,0.9040959
+Cx_FuGt,neuron,29403,0.6863137,0.86613387
+Cx_FuGt,oligodendrocyte,1244,0.1968032,0.15084915
+Cx_FuGt,oligodendrocyte precursor cell,295,0.30869132,0.81918085
+Cx_FuGt,pericyte,8,0.37862137,0.5724276
+Cx_FuGt,vascular associated smooth muscle cell,2,0.43656343,0.000999001
+Cx_Ig,astrocyte,1157,0.0969031,0.46453547
+Cx_Ig,central nervous system macrophage,357,0.14085914,0.018981019
+Cx_Ig,endothelial cell,20,0.004995005,0.26273727
+Cx_Ig,fibroblast,24,0.07492507,0.1928072
+Cx_Ig,leukocyte,12,0.013986014,0.12987013
+Cx_Ig,neuron,35308,0.43456542,0.52547455
+Cx_Ig,oligodendrocyte,1509,0.22477522,0.64835167
+Cx_Ig,oligodendrocyte precursor cell,530,0.5244755,0.36363637
+Cx_Ig,pericyte,11,0.14585415,0.8901099
+Cx_Ig,vascular associated smooth muscle cell,9,0.2847153,0.76523477
+Cx_ITG,astrocyte,839,0.24075924,0.6163836
+Cx_ITG,central nervous system macrophage,370,0.15284716,0.953047
+Cx_ITG,endothelial cell,13,0.035964034,0.11188811
+Cx_ITG,fibroblast,11,0.21878122,0.08791209
+Cx_ITG,leukocyte,15,0.011988012,0.4935065
+Cx_ITG,neuron,26596,0.4035964,0.84015983
+Cx_ITG,oligodendrocyte,1192,0.3936064,0.45754245
+Cx_ITG,oligodendrocyte precursor cell,475,0.6073926,0.85614383
+Cx_ITG,pericyte,10,0.03996004,0.12687312
+Cx_ITG,vascular associated smooth muscle cell,1,0.33866134,NA
+Cx_LIG_Idg,astrocyte,984,0.0979021,0.33466533
+Cx_LIG_Idg,central nervous system macrophage,407,0.1918082,0.47452548
+Cx_LIG_Idg,endothelial cell,9,0.005994006,0.5814186
+Cx_LIG_Idg,fibroblast,18,0.3966034,0.2957043
+Cx_LIG_Idg,leukocyte,5,0.35964036,0.35864136
+Cx_LIG_Idg,neuron,36450,0.5094905,0.64935064
+Cx_LIG_Idg,oligodendrocyte,1191,0.2997003,0.72327673
+Cx_LIG_Idg,oligodendrocyte precursor cell,622,0.44755244,0.24475524
+Cx_LIG_Idg,pericyte,6,0.3026973,0.25174826
+Cx_LIG_Idg,vascular associated smooth muscle cell,4,0.060939062,0.5494506
+Cx_LiG_PrimaryVisualCortex,astrocyte,847,0.28171828,0.60639364
+Cx_LiG_PrimaryVisualCortex,central nervous system macrophage,245,0.16183816,0.14385614
+Cx_LiG_PrimaryVisualCortex,endothelial cell,15,0.001998002,0.38961038
+Cx_LiG_PrimaryVisualCortex,fibroblast,7,0.37662336,0.9370629
+Cx_LiG_PrimaryVisualCortex,leukocyte,13,0.08091908,0.28071928
+Cx_LiG_PrimaryVisualCortex,neuron,30599,0.2947053,0.54745257
+Cx_LiG_PrimaryVisualCortex,oligodendrocyte,1375,0.5074925,0.6983017
+Cx_LiG_PrimaryVisualCortex,oligodendrocyte precursor cell,365,0.73926073,0.7962038
+Cx_LiG_PrimaryVisualCortex,pericyte,15,0.27972028,0.37362638
+Cx_LiG_PrimaryVisualCortex,vascular associated smooth muscle cell,3,0.068931065,0.000999001
+Cx_MFG,astrocyte,965,0.103896104,0.94205797
+Cx_MFG,central nervous system macrophage,213,0.18481518,0.997003
+Cx_MFG,endothelial cell,6,0.0999001,0.000999001
+Cx_MFG,fibroblast,8,0.33666334,0.09490509
+Cx_MFG,leukocyte,6,0.0979021,0.6683317
+Cx_MFG,neuron,27923,0.7032967,0.8091908
+Cx_MFG,oligodendrocyte,1459,0.1968032,0.030969031
+Cx_MFG,oligodendrocyte precursor cell,472,0.43656343,0.7202797
+Cx_MFG,pericyte,10,0.033966035,0.2947053
+Cx_MFG,vascular associated smooth muscle cell,3,0.16283716,0.6853147
+CX_MTG,astrocyte,4947,0.10889111,0.6123876
+CX_MTG,central nervous system macrophage,2241,0.14485514,0.054945055
+CX_MTG,endothelial cell,131,0.004995005,0.1878122
+CX_MTG,fibroblast,117,0.060939062,0.26573426
+CX_MTG,leukocyte,74,0.015984016,0.2917083
+CX_MTG,neuron,85093,0.77722275,0.7122877
+CX_MTG,oligodendrocyte,11602,0.21778221,0.5314685
+CX_MTG,oligodendrocyte precursor cell,3015,0.4025974,0.991009
+CX_MTG,pericyte,76,0.015984016,0.06793207
+CX_MTG,vascular associated smooth muscle cell,5,0.027972028,0.03996004
+Cx_PaO_A43,astrocyte,1215,0.1958042,0.4125874
+Cx_PaO_A43,central nervous system macrophage,437,0.15884116,0.060939062
+Cx_PaO_A43,endothelial cell,21,0.03196803,0.14985014
+Cx_PaO_A43,ependymal cell,1,0.5074925,NA
+Cx_PaO_A43,fibroblast,38,0.11588412,0.7912088
+Cx_PaO_A43,leukocyte,10,0.054945055,0.15384616
+Cx_PaO_A43,neuron,39028,0.42657343,0.7752248
+Cx_PaO_A43,oligodendrocyte,1539,0.43556443,0.86413586
+Cx_PaO_A43,oligodendrocyte precursor cell,527,0.44455543,0.45454547
+Cx_PaO_A43,pericyte,18,0.07892108,0.3126873
+Cx_PoCG_S1C,astrocyte,658,0.18981019,0.6853147
+Cx_PoCG_S1C,central nervous system macrophage,328,0.17682318,0.2927073
+Cx_PoCG_S1C,endothelial cell,16,0.017982017,0.12287712
+Cx_PoCG_S1C,fibroblast,10,0.1938062,0.8931069
+Cx_PoCG_S1C,leukocyte,9,0.17682318,0.30669332
+Cx_PoCG_S1C,neuron,35453,0.37662336,0.7262737
+Cx_PoCG_S1C,oligodendrocyte,1509,0.31768233,0.08191808
+Cx_PoCG_S1C,oligodendrocyte precursor cell,194,0.5784216,0.7982018
+Cx_PoCG_S1C,pericyte,7,0.04995005,0.45354646
+Cx_PoCG_S1C,vascular associated smooth muscle cell,4,0.13686314,0.83716285
+Cx_POrg_Caudal_division_OFCi,astrocyte,749,0.103896104,0.061938062
+Cx_POrg_Caudal_division_OFCi,central nervous system macrophage,158,0.060939062,0.62437564
+Cx_POrg_Caudal_division_OFCi,endothelial cell,8,0.02997003,0.05294705
+Cx_POrg_Caudal_division_OFCi,fibroblast,15,0.08591408,0.4005994
+Cx_POrg_Caudal_division_OFCi,leukocyte,6,0.006993007,0.4225774
+Cx_POrg_Caudal_division_OFCi,neuron,32634,0.63936067,0.6813187
+Cx_POrg_Caudal_division_OFCi,oligodendrocyte,1008,0.17182817,0.78821176
+Cx_POrg_Caudal_division_OFCi,oligodendrocyte precursor cell,331,0.43756244,0.014985015
+Cx_POrg_Caudal_division_OFCi,pericyte,9,0.033966035,0.002997003
+Cx_POrg_Caudal_division_OFCi,vascular associated smooth muscle cell,1,0.016983017,NA
+Cx_PPH_TH-TL,astrocyte,2646,0.06793207,0.044955045
+Cx_PPH_TH-TL,central nervous system macrophage,738,0.11388611,0.47152847
+Cx_PPH_TH-TL,endothelial cell,31,0.017982017,0.030969031
+Cx_PPH_TH-TL,fibroblast,62,0.04995005,0.35864136
+Cx_PPH_TH-TL,leukocyte,24,0.001998002,0.13386613
+Cx_PPH_TH-TL,neuron,32230,0.76823175,0.45854145
+Cx_PPH_TH-TL,oligodendrocyte,2990,0.114885114,0.13786213
+Cx_PPH_TH-TL,oligodendrocyte precursor cell,1939,0.43856144,0.07692308
+Cx_PPH_TH-TL,pericyte,10,0.023976024,0.28971028
+Cx_PPH_TH-TL,vascular associated smooth muscle cell,7,0.07692308,0.43556443
+CX_PRCG_Primary_motor_cortex_M1C,astrocyte,1492,0.25174826,0.5694306
+CX_PRCG_Primary_motor_cortex_M1C,central nervous system macrophage,274,0.22877122,0.8681319
+CX_PRCG_Primary_motor_cortex_M1C,choroid plexus epithelial cell,1,0.13386613,NA
+CX_PRCG_Primary_motor_cortex_M1C,endothelial cell,55,0.17282717,0.6973027
+CX_PRCG_Primary_motor_cortex_M1C,fibroblast,47,0.3056943,0.5934066
+CX_PRCG_Primary_motor_cortex_M1C,leukocyte,10,0.114885114,0.3026973
+CX_PRCG_Primary_motor_cortex_M1C,neuron,110246,0.57542455,0.8841159
+CX_PRCG_Primary_motor_cortex_M1C,oligodendrocyte,3856,0.26773226,0.33266732
+CX_PRCG_Primary_motor_cortex_M1C,oligodendrocyte precursor cell,550,0.5084915,0.21778221
+CX_PRCG_Primary_motor_cortex_M1C,pericyte,33,0.051948052,0.2027972
+CX_PRCG_Primary_motor_cortex_M1C,vascular associated smooth muscle cell,12,0.0959041,0.22277722
+Cx_PRG,astrocyte,458,0.07692308,0.43956044
+Cx_PRG,central nervous system macrophage,246,0.114885114,0.25274727
+Cx_PRG,endothelial cell,10,0.02097902,0.6293706
+Cx_PRG,fibroblast,33,0.10889111,0.2937063
+Cx_PRG,leukocyte,4,0.026973028,0.55944055
+Cx_PRG,neuron,21708,0.45554444,0.7372627
+Cx_PRG,oligodendrocyte,877,0.14485514,0.7112887
+Cx_PRG,oligodendrocyte precursor cell,389,0.5354645,0.4115884
+Cx_PRG,pericyte,4,0.7842158,0.7922078
+Cx_PRG,vascular associated smooth muscle cell,3,0.13386613,0.6883117
+Cx_ReG,astrocyte,341,0.12487513,0.5354645
+Cx_ReG,central nervous system macrophage,55,0.068931065,0.6233766
+Cx_ReG,endothelial cell,3,0.15484515,0.66533464
+Cx_ReG,fibroblast,11,0.37962037,0.066933066
+Cx_ReG,leukocyte,2,0.11388611,0.000999001
+Cx_ReG,neuron,13473,0.49050948,0.6593407
+Cx_ReG,oligodendrocyte,262,0.4025974,0.9000999
+Cx_ReG,oligodendrocyte precursor cell,202,0.53246754,0.5804196
+Cx_ReG,pericyte,2,0.015984016,0.000999001
+Cx_ReG,vascular associated smooth muscle cell,1,0.18381618,NA
+Cx_RoG_Dorsal_division_MFC,astrocyte,978,0.14785215,0.056943055
+Cx_RoG_Dorsal_division_MFC,central nervous system macrophage,254,0.06393606,0.17282717
+Cx_RoG_Dorsal_division_MFC,endothelial cell,6,0.12687312,0.3216783
+Cx_RoG_Dorsal_division_MFC,fibroblast,6,0.1918082,0.18381618
+Cx_RoG_Dorsal_division_MFC,leukocyte,2,0.12987013,0.000999001
+Cx_RoG_Dorsal_division_MFC,neuron,22757,0.5874126,0.6053946
+Cx_RoG_Dorsal_division_MFC,oligodendrocyte,275,0.21778221,0.27772227
+Cx_RoG_Dorsal_division_MFC,oligodendrocyte precursor cell,524,0.4845155,0.45154846
+Cx_RoG_Dorsal_division_MFC,pericyte,4,0.038961038,0.11188811
+Cx_RoG_Dorsal_division_MFC,vascular associated smooth muscle cell,2,0.12887113,NA
+Cx_SMG_A40,astrocyte,966,0.23276724,0.8961039
+Cx_SMG_A40,central nervous system macrophage,275,0.24175824,0.56143856
+Cx_SMG_A40,endothelial cell,6,0.2957043,0.2967033
+Cx_SMG_A40,fibroblast,20,0.4055944,0.42857143
+Cx_SMG_A40,leukocyte,10,0.002997003,0.45654345
+Cx_SMG_A40,neuron,35993,0.5104895,0.9100899
+Cx_SMG_A40,oligodendrocyte,1312,0.27772227,0.57542455
+Cx_SMG_A40,oligodendrocyte precursor cell,459,0.4985015,0.96303695
+Cx_SMG_A40,pericyte,10,0.4765235,0.28771228
+Cx_SMG_A40,vascular associated smooth muscle cell,2,0.44055945,0.000999001
+Cx_SOG,astrocyte,819,0.20779221,0.25374624
+Cx_SOG,central nervous system macrophage,256,0.21378621,0.8131868
+Cx_SOG,endothelial cell,5,0.000999001,0.33166832
+Cx_SOG,fibroblast,12,0.14885116,0.07992008
+Cx_SOG,leukocyte,13,0.001998002,0.45554444
+Cx_SOG,neuron,26775,0.43456542,0.76423573
+Cx_SOG,oligodendrocyte,1440,0.23276724,0.03196803
+Cx_SOG,oligodendrocyte precursor cell,340,0.5444555,0.2977023
+Cx_SOG,pericyte,10,0.22277722,0.8031968
+Cx_SOG,vascular associated smooth muscle cell,4,0.017982017,0.22077923
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,astrocyte,667,0.14785215,0.2837163
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,central nervous system macrophage,261,0.20479521,0.55344653
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,choroid plexus epithelial cell,1,0.93206793,NA
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,endothelial cell,11,0.08191808,0.21678321
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,fibroblast,5,0.13186814,0.43656343
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,leukocyte,5,0.000999001,0.6413586
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,neuron,32527,0.62437564,0.7042957
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,oligodendrocyte,1530,0.24575424,0.6293706
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,oligodendrocyte precursor cell,276,0.62237763,0.45954046
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,pericyte,6,0.48951048,0.43956044
+Cx_SPL_Posterosuperior_dorsal_parietal_cortex,vascular associated smooth muscle cell,1,0.7052947,NA
+Cx_STG,astrocyte,2648,0.121878125,0.18481518
+Cx_STG,central nervous system macrophage,1085,0.112887114,0.013986014
+Cx_STG,choroid plexus epithelial cell,1,0.17882118,NA
+Cx_STG,endothelial cell,26,0.003996004,0.018981019
+Cx_STG,fibroblast,50,0.11188811,0.67132866
+Cx_STG,leukocyte,29,0.008991009,0.110889114
+Cx_STG,neuron,27340,0.7422577,0.4925075
+Cx_STG,oligodendrocyte,8239,0.25174826,0.73426574
+Cx_STG,oligodendrocyte precursor cell,1112,0.5694306,0.09190809
+Cx_STG,pericyte,34,0.034965035,0.30769232
+Cx_STG,vascular associated smooth muscle cell,1,0.26673326,NA
+Cx_TP,astrocyte,819,0.12587413,0.026973028
+Cx_TP,central nervous system macrophage,410,0.13786213,0.22677323
+Cx_TP,endothelial cell,4,0.04895105,0.34065935
+Cx_TP,fibroblast,35,0.3126873,0.84415585
+Cx_TP,leukocyte,11,0.025974026,0.015984016
+Cx_TP,neuron,34466,0.4065934,0.5964036
+Cx_TP,oligodendrocyte,1256,0.34065935,0.8541458
+Cx_TP,oligodendrocyte precursor cell,635,0.5874126,0.8101898
+Cx_TP,pericyte,5,0.07092907,0.6043956
+Cx_TP,vascular associated smooth muscle cell,1,0.11588412,NA
+Cx_TTG,astrocyte,666,0.1058941,0.28771228
+Cx_TTG,central nervous system macrophage,311,0.23076923,0.24075924
+Cx_TTG,endothelial cell,19,0.025974026,0.53446555
+Cx_TTG,fibroblast,34,0.32867134,0.7212787
+Cx_TTG,leukocyte,8,0.044955045,0.14885116
+Cx_TTG,neuron,30175,0.36663336,0.7152847
+Cx_TTG,oligodendrocyte,1302,0.42057943,0.65434563
+Cx_TTG,oligodendrocyte precursor cell,264,0.6303696,0.16883117
+Cx_TTG,pericyte,8,0.053946055,0.85614383
+Cx_TTG,vascular associated smooth muscle cell,3,0.2007992,0.6703297
+ETH,astrocyte,239,0.018981019,0.012987013
+ETH,central nervous system macrophage,184,0.28971028,0.98101896
+ETH,endothelial cell,15,0.06593407,0.991009
+ETH,ependymal cell,58,0.015984016,0.4975025
+ETH,fibroblast,60,0.34565434,0.34765235
+ETH,leukocyte,18,0.001998002,0.6093906
+ETH,neuron,22261,0.84815186,0.8831169
+ETH,oligodendrocyte,1222,0.36063936,0.47052947
+ETH,oligodendrocyte precursor cell,242,0.54845154,0.13086914
+ETH,pericyte,24,0.23276724,0.86613387
+ETH,vascular associated smooth muscle cell,4,0.016983017,0.24175824
+EXA_BNST,astrocyte,713,0.15684316,0.016983017
+EXA_BNST,central nervous system macrophage,347,0.2857143,0.6073926
+EXA_BNST,endothelial cell,9,0.27872127,0.0989011
+EXA_BNST,ependymal cell,237,0.06393606,0.08791209
+EXA_BNST,fibroblast,28,0.5584416,0.72327673
+EXA_BNST,leukocyte,18,0.02097902,0.54145855
+EXA_BNST,neuron,31259,0.56843156,0.75924075
+EXA_BNST,oligodendrocyte,1692,0.54145855,0.5714286
+EXA_BNST,oligodendrocyte precursor cell,615,0.7312687,0.6683317
+EXA_BNST,pericyte,11,0.3106893,0.85814184
+EXA_BNST,vascular associated smooth muscle cell,4,0.46353647,0.35464534
+HiB_Rostral_CA1-2,astrocyte,261,0.09490509,0.74125874
+HiB_Rostral_CA1-2,central nervous system macrophage,132,0.25474524,0.7012987
+HiB_Rostral_CA1-2,endothelial cell,19,0.05794206,0.5724276
+HiB_Rostral_CA1-2,ependymal cell,2,0.001998002,0.000999001
+HiB_Rostral_CA1-2,fibroblast,16,0.17182817,0.051948052
+HiB_Rostral_CA1-2,neuron,9696,0.6273726,0.4945055
+HiB_Rostral_CA1-2,oligodendrocyte,866,0.04695305,0.12887113
+HiB_Rostral_CA1-2,oligodendrocyte precursor cell,265,0.35264736,0.28971028
+HiB_Rostral_CA1-2,pericyte,4,0.1928072,0.54345655
+HiB_Rostral_CA1-2,vascular associated smooth muscle cell,4,0.02897103,0.5294705
+HiB_Rostral_CA1-CA3,astrocyte,1178,0.043956045,0.003996004
+HiB_Rostral_CA1-CA3,central nervous system macrophage,783,0.2937063,0.08491509
+HiB_Rostral_CA1-CA3,choroid plexus epithelial cell,3,0.42457542,0.66033965
+HiB_Rostral_CA1-CA3,endothelial cell,30,0.068931065,0.54345655
+HiB_Rostral_CA1-CA3,ependymal cell,85,0.014985015,0.12287712
+HiB_Rostral_CA1-CA3,fibroblast,80,0.17182817,0.2987013
+HiB_Rostral_CA1-CA3,leukocyte,19,0.006993007,0.7372627
+HiB_Rostral_CA1-CA3,neuron,21695,0.6233766,0.3966034
+HiB_Rostral_CA1-CA3,oligodendrocyte,4386,0.25474524,0.51448554
+HiB_Rostral_CA1-CA3,oligodendrocyte precursor cell,438,0.5064935,0.9350649
+HiB_Rostral_CA1-CA3,pericyte,23,0.011988012,0.11188811
+HiB_Rostral_CA1-CA3,vascular associated smooth muscle cell,4,0.18881118,0.8761239
+HiB_Rostral_CA3,astrocyte,583,0.064935066,0.013986014
+HiB_Rostral_CA3,central nervous system macrophage,284,0.16183816,0.051948052
+HiB_Rostral_CA3,endothelial cell,49,0.005994006,0.17582418
+HiB_Rostral_CA3,ependymal cell,43,0.08991009,0.000999001
+HiB_Rostral_CA3,fibroblast,21,0.2997003,0.07892108
+HiB_Rostral_CA3,leukocyte,5,0.043956045,0.5034965
+HiB_Rostral_CA3,neuron,4796,0.7872128,0.35464534
+HiB_Rostral_CA3,oligodendrocyte,1987,0.27072927,0.16783217
+HiB_Rostral_CA3,oligodendrocyte precursor cell,288,0.6193806,0.8101898
+HiB_Rostral_CA3,pericyte,11,0.002997003,0.08191808
+HiB_Rostral_CA3,vascular associated smooth muscle cell,10,0.00999001,0.4775225
+HiB_Rostral_DG-CA4,astrocyte,4149,0.1998002,0.08391608
+HiB_Rostral_DG-CA4,central nervous system macrophage,2369,0.33666334,0.44555444
+HiB_Rostral_DG-CA4,choroid plexus epithelial cell,65,0.42657343,0.6823177
+HiB_Rostral_DG-CA4,endothelial cell,88,0.03196803,0.27972028
+HiB_Rostral_DG-CA4,ependymal cell,59,0.050949052,0.16983017
+HiB_Rostral_DG-CA4,fibroblast,69,0.32667333,0.4885115
+HiB_Rostral_DG-CA4,leukocyte,35,0.014985015,0.4775225
+HiB_Rostral_DG-CA4,neuron,25636,0.7062937,0.8221778
+HiB_Rostral_DG-CA4,oligodendrocyte,6028,0.31568432,0.6013986
+HiB_Rostral_DG-CA4,oligodendrocyte precursor cell,1652,0.7012987,0.9230769
+HiB_Rostral_DG-CA4,pericyte,35,0.121878125,0.24375625
+HiB_Rostral_DG-CA4,vascular associated smooth muscle cell,6,0.58841157,0.27572426
+HiH_UncalCA1-CA3,astrocyte,1514,0.038961038,0.017982017
+HiH_UncalCA1-CA3,central nervous system macrophage,426,0.16183816,0.4845155
+HiH_UncalCA1-CA3,endothelial cell,11,0.08291708,0.75024974
+HiH_UncalCA1-CA3,ependymal cell,178,0.017982017,0.002997003
+HiH_UncalCA1-CA3,fibroblast,135,0.34565434,0.5714286
+HiH_UncalCA1-CA3,leukocyte,12,0.000999001,0.023976024
+HiH_UncalCA1-CA3,neuron,31168,0.7442557,0.5004995
+HiH_UncalCA1-CA3,oligodendrocyte,3996,0.24375625,0.44555444
+HiH_UncalCA1-CA3,oligodendrocyte precursor cell,458,0.5824176,0.6073926
+HiH_UncalCA1-CA3,pericyte,12,0.5264735,0.15084915
+HiH_UncalCA1-CA3,vascular associated smooth muscle cell,1,0.08391608,NA
+HiH_UncalCA1,astrocyte,7354,0.35664335,0.09490509
+HiH_UncalCA1,central nervous system macrophage,1723,0.35064936,0.5694306
+HiH_UncalCA1,endothelial cell,271,0.024975024,0.5904096
+HiH_UncalCA1,ependymal cell,1160,0.36163837,0.007992008
+HiH_UncalCA1,fibroblast,121,0.5604396,0.73026973
+HiH_UncalCA1,leukocyte,76,0.026973028,0.3756244
+HiH_UncalCA1,neuron,14677,0.5714286,0.6983017
+HiH_UncalCA1,oligodendrocyte,7994,0.2927073,0.1988012
+HiH_UncalCA1,oligodendrocyte precursor cell,5693,0.7992008,0.14585415
+HiH_UncalCA1,pericyte,69,0.061938062,0.6193806
+HiH_UncalCA1,vascular associated smooth muscle cell,9,0.23276724,0.64235765
+HiH_UncalCA2CA3,astrocyte,164,0.003996004,0.012987013
+HiH_UncalCA2CA3,central nervous system macrophage,423,0.02097902,0.55744255
+HiH_UncalCA2CA3,endothelial cell,7,0.050949052,0.5924076
+HiH_UncalCA2CA3,ependymal cell,8,0.017982017,0.06793207
+HiH_UncalCA2CA3,leukocyte,8,0.016983017,0.5514485
+HiH_UncalCA2CA3,neuron,11268,0.8431568,0.37162837
+HiH_UncalCA2CA3,oligodendrocyte,456,0.060939062,0.8901099
+HiH_UncalCA2CA3,oligodendrocyte precursor cell,118,0.054945055,0.037962038
+HiH_UncalCA2CA3,pericyte,6,0.000999001,0.24775225
+HiH_UncalCA2CA3,vascular associated smooth muscle cell,3,0.034965035,0.000999001
+HiH_UncalDGCA4,astrocyte,3720,0.10689311,0.016983017
+HiH_UncalDGCA4,central nervous system macrophage,2126,0.44655344,0.21578422
+HiH_UncalDGCA4,endothelial cell,46,0.1028971,0.011988012
+HiH_UncalDGCA4,ependymal cell,91,0.02097902,0.15684316
+HiH_UncalDGCA4,fibroblast,40,0.4005994,0.99000996
+HiH_UncalDGCA4,leukocyte,19,0.121878125,0.34365633
+HiH_UncalDGCA4,neuron,22000,0.7422577,0.5064935
+HiH_UncalDGCA4,oligodendrocyte,5693,0.3096903,0.7532467
+HiH_UncalDGCA4,oligodendrocyte precursor cell,1596,0.56643355,0.8971029
+HiH_UncalDGCA4,pericyte,17,0.110889114,0.17582418
+HiH_UncalDGCA4,vascular associated smooth muscle cell,2,0.5184815,NA
+HiT_Caudal_Hippocampus_CA1-CA3,astrocyte,957,0.024975024,0.066933066
+HiT_Caudal_Hippocampus_CA1-CA3,central nervous system macrophage,483,0.25274727,0.9210789
+HiT_Caudal_Hippocampus_CA1-CA3,endothelial cell,30,0.01998002,0.16483517
+HiT_Caudal_Hippocampus_CA1-CA3,ependymal cell,50,0.004995005,0.25474524
+HiT_Caudal_Hippocampus_CA1-CA3,fibroblast,43,0.12287712,0.13386613
+HiT_Caudal_Hippocampus_CA1-CA3,leukocyte,6,0.12987013,0.14385614
+HiT_Caudal_Hippocampus_CA1-CA3,neuron,32432,0.6863137,0.5134865
+HiT_Caudal_Hippocampus_CA1-CA3,oligodendrocyte,2485,0.22877122,0.9010989
+HiT_Caudal_Hippocampus_CA1-CA3,oligodendrocyte precursor cell,390,0.4995005,0.18081918
+HiT_Caudal_Hippocampus_CA1-CA3,pericyte,7,0.12987013,0.6113886
+HiT_Caudal_Hippocampus_CA1-CA3,vascular associated smooth muscle cell,3,0.2987013,0.17782217
+HiT_Caudal_Hippocampus_CA4-DGC,astrocyte,3761,0.06993007,0.014985015
+HiT_Caudal_Hippocampus_CA4-DGC,central nervous system macrophage,1782,0.3846154,0.71628374
+HiT_Caudal_Hippocampus_CA4-DGC,endothelial cell,174,0.03696304,0.14185815
+HiT_Caudal_Hippocampus_CA4-DGC,ependymal cell,111,0.03196803,0.1058941
+HiT_Caudal_Hippocampus_CA4-DGC,fibroblast,86,0.17882118,0.7122877
+HiT_Caudal_Hippocampus_CA4-DGC,leukocyte,36,0.13386613,0.21678321
+HiT_Caudal_Hippocampus_CA4-DGC,neuron,36588,0.75624377,0.6143856
+HiT_Caudal_Hippocampus_CA4-DGC,oligodendrocyte,11875,0.2907093,0.8941059
+HiT_Caudal_Hippocampus_CA4-DGC,oligodendrocyte precursor cell,1896,0.56443554,0.75924075
+HiT_Caudal_Hippocampus_CA4-DGC,pericyte,39,0.07092907,0.3126873
+HiT_Caudal_Hippocampus_CA4-DGC,vascular associated smooth muscle cell,19,0.24875125,0.75524473
+HTH_HTHma_HTHtub,astrocyte,227,0.07692308,0.002997003
+HTH_HTHma_HTHtub,central nervous system macrophage,313,0.15484515,0.8911089
+HTH_HTHma_HTHtub,choroid plexus epithelial cell,1,0.1028971,NA
+HTH_HTHma_HTHtub,endothelial cell,11,0.02897103,0.985015
+HTH_HTHma_HTHtub,ependymal cell,2,0.027972028,0.000999001
+HTH_HTHma_HTHtub,fibroblast,41,0.044955045,0.36063936
+HTH_HTHma_HTHtub,leukocyte,5,0.021978023,0.7192807
+HTH_HTHma_HTHtub,neuron,16512,0.67432564,0.44555444
+HTH_HTHma_HTHtub,oligodendrocyte,1363,0.2927073,0.3946054
+HTH_HTHma_HTHtub,oligodendrocyte precursor cell,243,0.5154845,0.995005
+HTH_HTHma_HTHtub,pericyte,10,0.000999001,0.6113886
+HTH_HTHma_MN,Bergmann glial cell,1,0.47152847,NA
+HTH_HTHma_MN,astrocyte,1923,0.075924076,0.04095904
+HTH_HTHma_MN,central nervous system macrophage,1921,0.43356642,0.08191808
+HTH_HTHma_MN,choroid plexus epithelial cell,1,0.6503497,NA
+HTH_HTHma_MN,endothelial cell,96,0.08691309,0.2907093
+HTH_HTHma_MN,ependymal cell,51,0.08591408,0.05294705
+HTH_HTHma_MN,fibroblast,232,0.116883114,0.06593407
+HTH_HTHma_MN,leukocyte,144,0.003996004,0.055944055
+HTH_HTHma_MN,neuron,17272,0.5714286,0.25974026
+HTH_HTHma_MN,oligodendrocyte,5318,0.5514485,0.32967034
+HTH_HTHma_MN,oligodendrocyte precursor cell,1073,0.5744256,0.23076923
+HTH_HTHma_MN,pericyte,28,0.061938062,0.5514485
+HTH_HTHma_MN,vascular associated smooth muscle cell,95,0.006993007,0.71828175
+HTH_HTHma,astrocyte,141,0.011988012,0.15384616
+HTH_HTHma,central nervous system macrophage,97,0.18681319,0.53846157
+HTH_HTHma,endothelial cell,16,0.13186814,0.6233766
+HTH_HTHma,ependymal cell,27,0.044955045,0.5714286
+HTH_HTHma,fibroblast,25,0.2957043,0.7022977
+HTH_HTHma,leukocyte,3,0.010989011,0.34665334
+HTH_HTHma,neuron,9022,0.8031968,0.4755245
+HTH_HTHma,oligodendrocyte,635,0.17482518,0.21678321
+HTH_HTHma,oligodendrocyte precursor cell,113,0.5804196,0.6363636
+HTH_HTHma,pericyte,9,0.83916086,0.43456542
+HTH_HTHma,vascular associated smooth muscle cell,11,0.12887113,0.16983017
+HTH_HTHpo_HTHso,astrocyte,491,0.07192807,0.07192807
+HTH_HTHpo_HTHso,central nervous system macrophage,151,0.12787212,0.9100899
+HTH_HTHpo_HTHso,endothelial cell,4,0.004995005,0.8101898
+HTH_HTHpo_HTHso,ependymal cell,30,0.17282717,0.5184815
+HTH_HTHpo_HTHso,fibroblast,26,0.02997003,0.40759242
+HTH_HTHpo_HTHso,leukocyte,6,0.43856144,0.38861138
+HTH_HTHpo_HTHso,neuron,18002,0.62837166,0.3016983
+HTH_HTHpo_HTHso,oligodendrocyte,1178,0.42757243,0.5044955
+HTH_HTHpo_HTHso,oligodendrocyte precursor cell,134,0.5014985,0.27772227
+HTH_HTHpo_HTHso,pericyte,3,0.06793207,0.30669332
+HTH_HTHpo_HTHso,vascular associated smooth muscle cell,2,0.007992008,0.000999001
+HTH_HTHpo,astrocyte,396,0.36563435,0.025974026
+HTH_HTHpo,central nervous system macrophage,170,0.24275725,0.6343656
+HTH_HTHpo,endothelial cell,1,0.1028971,NA
+HTH_HTHpo,ependymal cell,25,0.02997003,0.12687312
+HTH_HTHpo,fibroblast,8,0.075924076,0.22777222
+HTH_HTHpo,leukocyte,9,0.05294705,0.8771229
+HTH_HTHpo,neuron,13248,0.112887114,0.14585415
+HTH_HTHpo,oligodendrocyte,801,0.24375625,0.4965035
+HTH_HTHpo,oligodendrocyte precursor cell,314,0.74025977,0.6293706
+HTH_HTHpo,pericyte,7,0.054945055,0.14185815
+HTH_HTHso_HTHtub,astrocyte,382,0.15184815,0.12887113
+HTH_HTHso_HTHtub,central nervous system macrophage,175,0.1928072,0.053946055
+HTH_HTHso_HTHtub,ependymal cell,5,0.016983017,0.5114885
+HTH_HTHso_HTHtub,fibroblast,8,0.116883114,0.6273726
+HTH_HTHso_HTHtub,leukocyte,7,0.037962038,0.4215784
+HTH_HTHso_HTHtub,neuron,15499,0.3206793,0.28771228
+HTH_HTHso_HTHtub,oligodendrocyte,484,0.56343657,0.7012987
+HTH_HTHso_HTHtub,oligodendrocyte precursor cell,192,0.56243753,0.15984017
+HTH_HTHso_HTHtub,vascular associated smooth muscle cell,1,0.16983017,NA
+HTH_HTHso,astrocyte,1428,0.12087912,0.044955045
+HTH_HTHso,central nervous system macrophage,240,0.1058941,0.2827173
+HTH_HTHso,endothelial cell,28,0.07292707,0.10689311
+HTH_HTHso,ependymal cell,1,0.5334665,NA
+HTH_HTHso,fibroblast,17,0.21578422,0.4055944
+HTH_HTHso,leukocyte,9,0.07192807,0.22577423
+HTH_HTHso,neuron,9535,0.75524473,0.84115887
+HTH_HTHso,oligodendrocyte,609,0.37962037,0.054945055
+HTH_HTHso,oligodendrocyte precursor cell,671,0.67432564,0.8221778
+HTH_HTHso,pericyte,11,0.16883117,0.81918085
+HTH_HTHso,vascular associated smooth muscle cell,8,0.023976024,0.08391608
+HTH_HTHtub,astrocyte,378,0.004995005,0.003996004
+HTH_HTHtub,central nervous system macrophage,296,0.20379621,0.46053946
+HTH_HTHtub,endothelial cell,33,0.09290709,0.9370629
+HTH_HTHtub,ependymal cell,75,0.001998002,0.121878125
+HTH_HTHtub,fibroblast,60,0.45254746,0.8941059
+HTH_HTHtub,leukocyte,31,0.007992008,0.056943055
+HTH_HTHtub,neuron,10976,0.83116883,0.46753246
+HTH_HTHtub,oligodendrocyte,701,0.2957043,0.4065934
+HTH_HTHtub,oligodendrocyte precursor cell,613,0.5334665,0.07292707
+HTH_HTHtub,pericyte,10,0.22177823,0.14685315
+M_IC,Bergmann glial cell,28,0.64935064,0.5964036
+M_IC,astrocyte,627,0.010989011,0.002997003
+M_IC,central nervous system macrophage,611,0.17282717,0.23176824
+M_IC,choroid plexus epithelial cell,1,0.62237763,NA
+M_IC,endothelial cell,30,0.066933066,0.5954046
+M_IC,ependymal cell,64,0.025974026,0.02997003
+M_IC,fibroblast,74,0.39060938,0.8721279
+M_IC,leukocyte,38,0.016983017,0.6983017
+M_IC,neuron,27978,0.12987013,0.15184815
+M_IC,oligodendrocyte,2029,0.46553448,0.23976023
+M_IC,oligodendrocyte precursor cell,803,0.70729274,0.26473525
+M_IC,pericyte,14,0.017982017,0.5854146
+M_IC,vascular associated smooth muscle cell,9,0.1928072,0.57042956
+Midbrain_RN,Bergmann glial cell,1,0.8721279,NA
+Midbrain_RN,astrocyte,344,0.056943055,0.003996004
+Midbrain_RN,central nervous system macrophage,157,0.4875125,0.3836164
+Midbrain_RN,endothelial cell,10,0.18581419,0.25974026
+Midbrain_RN,fibroblast,26,0.5974026,0.44155845
+Midbrain_RN,leukocyte,10,0.02997003,0.5714286
+Midbrain_RN,neuron,1731,0.8901099,0.066933066
+Midbrain_RN,oligodendrocyte,2139,0.38261738,0.24275725
+Midbrain_RN,oligodendrocyte precursor cell,281,0.5154845,0.7762238
+Midbrain_RN,pericyte,14,0.2027972,0.46253747
+Midbrain_RN,vascular associated smooth muscle cell,1,0.4215784,NA
+Mo_MoAN,Bergmann glial cell,101,0.8651349,0.23276724
+Mo_MoAN,astrocyte,2614,0.02097902,0.001998002
+Mo_MoAN,central nervous system macrophage,1006,0.33866134,0.22177823
+Mo_MoAN,choroid plexus epithelial cell,1057,0.5044955,0.03696304
+Mo_MoAN,endothelial cell,120,0.02997003,0.22277722
+Mo_MoAN,ependymal cell,372,0.27572426,0.1958042
+Mo_MoAN,fibroblast,179,0.12987013,0.5814186
+Mo_MoAN,leukocyte,93,0.011988012,0.112887114
+Mo_MoAN,neuron,15537,0.32667333,0.08991009
+Mo_MoAN,oligodendrocyte,5263,0.64035964,0.16383617
+Mo_MoAN,oligodendrocyte precursor cell,779,0.85314685,0.7742258
+Mo_MoAN,pericyte,57,0.064935066,0.28671327
+Mo_MoAN,vascular associated smooth muscle cell,32,0.1058941,0.44255745
+Mo_MoRF_MoEN,Bergmann glial cell,19,0.72727275,0.44855145
+Mo_MoRF_MoEN,astrocyte,1282,0.068931065,0.030969031
+Mo_MoRF_MoEN,central nervous system macrophage,1136,0.07092907,0.002997003
+Mo_MoRF_MoEN,choroid plexus epithelial cell,37,0.07292707,0.06393606
+Mo_MoRF_MoEN,endothelial cell,54,0.025974026,0.8021978
+Mo_MoRF_MoEN,ependymal cell,315,0.0939061,0.06393606
+Mo_MoRF_MoEN,fibroblast,98,0.34965035,0.14385614
+Mo_MoRF_MoEN,leukocyte,50,0.025974026,0.062937066
+Mo_MoRF_MoEN,neuron,13984,0.26873127,0.114885114
+Mo_MoRF_MoEN,oligodendrocyte,5292,0.6663337,0.32567433
+Mo_MoRF_MoEN,oligodendrocyte precursor cell,799,0.67432564,0.07892108
+Mo_MoRF_MoEN,pericyte,45,0.04095904,0.037962038
+Mo_MoRF_MoEN,vascular associated smooth muscle cell,9,0.001998002,0.43456542
+Mo_MoSR,Bergmann glial cell,7,0.73026973,0.47352648
+Mo_MoSR,astrocyte,350,0.027972028,0.04295704
+Mo_MoSR,central nervous system macrophage,74,0.13986014,0.76823175
+Mo_MoSR,choroid plexus epithelial cell,341,0.41958043,0.6853147
+Mo_MoSR,endothelial cell,66,0.110889114,0.17082918
+Mo_MoSR,ependymal cell,243,0.05894106,0.85714287
+Mo_MoSR,fibroblast,107,0.63936067,0.20379621
+Mo_MoSR,leukocyte,22,0.013986014,0.40859142
+Mo_MoSR,neuron,7147,0.5074925,0.65134865
+Mo_MoSR,oligodendrocyte,5011,0.55344653,0.5714286
+Mo_MoSR,oligodendrocyte precursor cell,194,0.5044955,0.26073927
+Mo_MoSR,pericyte,39,0.30769232,0.8091908
+Mo_MoSR,vascular associated smooth muscle cell,22,0.008991009,0.121878125
+Mo_PrCbN_IO,Bergmann glial cell,22,0.5694306,0.025974026
+Mo_PrCbN_IO,astrocyte,1251,0.045954045,0.004995005
+Mo_PrCbN_IO,central nervous system macrophage,1057,0.1998002,0.016983017
+Mo_PrCbN_IO,endothelial cell,134,0.004995005,0.35664335
+Mo_PrCbN_IO,ependymal cell,1,0.74825174,NA
+Mo_PrCbN_IO,fibroblast,201,0.21378621,0.22177823
+Mo_PrCbN_IO,leukocyte,73,0.10989011,0.018981019
+Mo_PrCbN_IO,neuron,10446,0.2927073,0.3756244
+Mo_PrCbN_IO,oligodendrocyte,7304,0.9070929,0.28671327
+Mo_PrCbN_IO,oligodendrocyte precursor cell,925,0.9300699,0.82817185
+Mo_PrCbN_IO,pericyte,51,0.2007992,0.4975025
+Mo_PrCbN_IO,vascular associated smooth muscle cell,69,0.15784216,0.9100899
+M_PAG-DR,astrocyte,669,0.35064936,0.06993007
+M_PAG-DR,central nervous system macrophage,283,0.30669332,0.16783217
+M_PAG-DR,endothelial cell,14,0.14485514,0.1928072
+M_PAG-DR,ependymal cell,107,0.26973027,0.1918082
+M_PAG-DR,fibroblast,41,0.45254746,0.5014985
+M_PAG-DR,leukocyte,23,0.021978023,0.85314685
+M_PAG-DR,neuron,10665,0.54345655,0.5134865
+M_PAG-DR,oligodendrocyte,1889,0.38861138,0.6113886
+M_PAG-DR,oligodendrocyte precursor cell,381,0.48951048,0.65134865
+M_PAG-DR,pericyte,18,0.25174826,0.021978023
+M_PAG-DR,vascular associated smooth muscle cell,4,0.24175824,0.74525476
+M_PAG,astrocyte,1648,0.03196803,0.000999001
+M_PAG,central nervous system macrophage,1743,0.11588412,0.27872127
+M_PAG,endothelial cell,30,0.008991009,0.62837166
+M_PAG,ependymal cell,43,0.04295704,0.034965035
+M_PAG,fibroblast,108,0.15784216,0.54845154
+M_PAG,leukocyte,61,0.014985015,0.64935064
+M_PAG,neuron,16546,0.52747256,0.22977023
+M_PAG,oligodendrocyte,11675,0.6303696,0.3936064
+M_PAG,oligodendrocyte precursor cell,1909,0.72327673,0.30669332
+M_PAG,pericyte,23,0.012987013,0.7922078
+M_PAG,vascular associated smooth muscle cell,8,0.18281718,0.5424575
+M_PTR,astrocyte,403,0.13386613,0.0989011
+M_PTR,central nervous system macrophage,194,0.33766234,0.16483517
+M_PTR,endothelial cell,7,0.07692308,0.8591409
+M_PTR,ependymal cell,4,0.14085914,0.25474524
+M_PTR,fibroblast,77,0.26673326,0.30669332
+M_PTR,leukocyte,10,0.000999001,0.56243753
+M_PTR,neuron,23580,0.55344653,0.6113886
+M_PTR,oligodendrocyte,1409,0.4045954,0.35364637
+M_PTR,oligodendrocyte precursor cell,178,0.58641356,0.2937063
+M_PTR,pericyte,6,0.07892108,0.17282717
+M_PTR,vascular associated smooth muscle cell,7,0.056943055,0.46353647
+M_SC,astrocyte,657,0.04295704,0.027972028
+M_SC,central nervous system macrophage,274,0.2837163,0.7442557
+M_SC,choroid plexus epithelial cell,1,0.96303695,NA
+M_SC,endothelial cell,16,0.25974026,0.5824176
+M_SC,ependymal cell,36,0.017982017,0.5924076
+M_SC,fibroblast,41,0.2057942,0.44955045
+M_SC,leukocyte,10,0.06993007,0.28771228
+M_SC,neuron,27156,0.6773227,0.72327673
+M_SC,oligodendrocyte,1217,0.6053946,0.47852147
+M_SC,oligodendrocyte precursor cell,478,0.4845155,0.5114885
+M_SC,pericyte,20,0.1058941,0.1008991
+M_SC,vascular associated smooth muscle cell,1,0.045954045,NA
+M_SN-RN,astrocyte,3618,0.21478522,0.24075924
+M_SN-RN,central nervous system macrophage,4423,0.09290709,0.024975024
+M_SN-RN,choroid plexus epithelial cell,1,0.024975024,NA
+M_SN-RN,endothelial cell,84,0.007992008,0.57342654
+M_SN-RN,ependymal cell,19,0.15984017,0.987013
+M_SN-RN,fibroblast,152,0.3026973,0.062937066
+M_SN-RN,leukocyte,121,0.008991009,0.5964036
+M_SN-RN,neuron,11252,0.35164836,0.44755244
+M_SN-RN,oligodendrocyte,25331,0.8341658,0.26273727
+M_SN-RN,oligodendrocyte precursor cell,3993,0.7022977,0.3856144
+M_SN-RN,pericyte,74,0.0959041,0.43956044
+M_SN-RN,vascular associated smooth muscle cell,42,0.035964034,0.9190809
+M_SN,astrocyte,5312,0.19480519,0.06793207
+M_SN,central nervous system macrophage,6555,0.34365633,0.04195804
+M_SN,endothelial cell,94,0.011988012,0.07692308
+M_SN,ependymal cell,3,0.38161838,0.8341658
+M_SN,fibroblast,191,0.3006993,0.6013986
+M_SN,leukocyte,243,0.008991009,0.010989011
+M_SN,neuron,8425,0.103896104,0.08891109
+M_SN,oligodendrocyte,34688,0.85114884,0.103896104
+M_SN,oligodendrocyte precursor cell,3871,0.6103896,0.67432564
+M_SN,pericyte,87,0.056943055,0.8321678
+M_SN,vascular associated smooth muscle cell,36,0.044955045,0.012987013
+PalCx_AON,astrocyte,674,0.024975024,0.05894106
+PalCx_AON,central nervous system macrophage,257,0.17082918,0.66733265
+PalCx_AON,endothelial cell,4,0.04095904,0.47852147
+PalCx_AON,fibroblast,4,0.07392608,0.54545456
+PalCx_AON,leukocyte,2,0.018981019,0.000999001
+PalCx_AON,neuron,29261,0.6883117,0.75024974
+PalCx_AON,oligodendrocyte,686,0.32667333,0.8991009
+PalCx_AON,oligodendrocyte precursor cell,336,0.57342654,0.2977023
+PalCx_AON,pericyte,5,0.02997003,0.5974026
+PalCx_AON,vascular associated smooth muscle cell,1,0.08891109,NA
+PalCx_Pir,astrocyte,1201,0.012987013,0.004995005
+PalCx_Pir,central nervous system macrophage,532,0.11388611,0.75224775
+PalCx_Pir,endothelial cell,43,0.006993007,0.13686314
+PalCx_Pir,fibroblast,46,0.18881118,0.14685315
+PalCx_Pir,leukocyte,11,0.016983017,0.3226773
+PalCx_Pir,neuron,32175,0.88011986,0.84215784
+PalCx_Pir,oligodendrocyte,2043,0.20879121,0.7782218
+PalCx_Pir,oligodendrocyte precursor cell,852,0.5654346,0.34865135
+PalCx_Pir,pericyte,11,0.22077923,0.8011988
+PalCx_Pir,vascular associated smooth muscle cell,27,0.006993007,0.82817185
+Perirhinal_cortex_A35r,astrocyte,5319,0.43056944,0.22877122
+Perirhinal_cortex_A35r,central nervous system macrophage,770,0.45554444,0.992008
+Perirhinal_cortex_A35r,endothelial cell,544,0.011988012,0.14085914
+Perirhinal_cortex_A35r,fibroblast,305,0.44355646,0.4015984
+Perirhinal_cortex_A35r,leukocyte,41,0.14785215,0.62437564
+Perirhinal_cortex_A35r,neuron,3,0.16983017,0.34865135
+Perirhinal_cortex_A35r,oligodendrocyte,4073,0.57042956,0.4005994
+Perirhinal_cortex_A35r,oligodendrocyte precursor cell,6404,0.6943057,0.36663336
+Perirhinal_cortex_A35r,pericyte,68,0.08891109,0.30769232
+Perirhinal_cortex_A35r,vascular associated smooth muscle cell,8,0.10889111,0.8991009
+Pn_PnAN,Bergmann glial cell,96,0.66933066,0.3106893
+Pn_PnAN,astrocyte,1141,0.11988012,0.09090909
+Pn_PnAN,central nervous system macrophage,824,0.12687312,0.002997003
+Pn_PnAN,choroid plexus epithelial cell,18,0.04795205,0.55044955
+Pn_PnAN,endothelial cell,55,0.001998002,0.010989011
+Pn_PnAN,ependymal cell,223,0.06793207,0.05794206
+Pn_PnAN,fibroblast,46,0.055944055,0.18381618
+Pn_PnAN,leukocyte,32,0.13886113,0.9480519
+Pn_PnAN,neuron,13666,0.36863136,0.43256745
+Pn_PnAN,oligodendrocyte,6422,0.75024974,0.44355646
+Pn_PnAN,oligodendrocyte precursor cell,785,0.81918085,0.11988012
+Pn_PnAN,pericyte,36,0.13186814,0.16983017
+Pn_PnAN,vascular associated smooth muscle cell,5,0.03196803,0.10689311
+Pn_PnEN,Bergmann glial cell,34,0.23376623,0.34465533
+Pn_PnEN,astrocyte,2404,0.012987013,0.01998002
+Pn_PnEN,central nervous system macrophage,861,0.17082918,0.45154846
+Pn_PnEN,choroid plexus epithelial cell,1,0.95704293,NA
+Pn_PnEN,endothelial cell,136,0.025974026,0.36363637
+Pn_PnEN,ependymal cell,120,0.022977022,0.23976023
+Pn_PnEN,fibroblast,256,0.13086914,0.3026973
+Pn_PnEN,leukocyte,136,0.005994006,0.33466533
+Pn_PnEN,neuron,25136,0.81518483,0.5804196
+Pn_PnEN,oligodendrocyte,16033,0.3056943,0.07292707
+Pn_PnEN,oligodendrocyte precursor cell,2110,0.5914086,0.054945055
+Pn_PnEN,pericyte,172,0.012987013,0.7132867
+Pn_PnEN,vascular associated smooth muscle cell,17,0.005994006,0.18881118
+Pn_PnRF_PB,Bergmann glial cell,7,0.74025977,0.44055945
+Pn_PnRF_PB,astrocyte,1505,0.11588412,0.01998002
+Pn_PnRF_PB,central nervous system macrophage,761,0.3206793,0.3046953
+Pn_PnRF_PB,endothelial cell,32,0.08791209,0.20479521
+Pn_PnRF_PB,ependymal cell,4,0.23676324,0.42557442
+Pn_PnRF_PB,fibroblast,97,0.101898104,0.37262738
+Pn_PnRF_PB,leukocyte,73,0.02997003,0.8061938
+Pn_PnRF_PB,neuron,15507,0.3136863,0.24375625
+Pn_PnRF_PB,oligodendrocyte,4954,0.65534467,0.63136864
+Pn_PnRF_PB,oligodendrocyte precursor cell,1161,0.78121877,0.38861138
+Pn_PnRF_PB,pericyte,35,0.051948052,0.73226774
+Pn_PnRF_PB,vascular associated smooth muscle cell,19,0.15084915,0.9330669
+Pn_PnRF,Bergmann glial cell,7,0.54345655,0.2997003
+Pn_PnRF,astrocyte,3434,0.09290709,0.021978023
+Pn_PnRF,central nervous system macrophage,3225,0.103896104,0.005994006
+Pn_PnRF,choroid plexus epithelial cell,1,0.6613387,NA
+Pn_PnRF,endothelial cell,118,0.000999001,0.51648355
+Pn_PnRF,ependymal cell,2,0.0959041,0.000999001
+Pn_PnRF,fibroblast,250,0.11188811,0.062937066
+Pn_PnRF,leukocyte,155,0.002997003,0.24875125
+Pn_PnRF,neuron,16035,0.44855145,0.85014987
+Pn_PnRF,oligodendrocyte,21976,0.6993007,0.43856144
+Pn_PnRF,oligodendrocyte precursor cell,4199,0.77222776,0.07092907
+Pn_PnRF,pericyte,100,0.016983017,0.15484515
+Pn_PnRF,vascular associated smooth muscle cell,10,0.018981019,0.7442557
+Pn_PN,astrocyte,851,0.018981019,0.001998002
+Pn_PN,central nervous system macrophage,1376,0.055944055,0.05294705
+Pn_PN,endothelial cell,109,0.016983017,0.26773226
+Pn_PN,fibroblast,199,0.24475524,0.02897103
+Pn_PN,leukocyte,72,0.010989011,0.07992008
+Pn_PN,neuron,18214,0.8041958,0.47252747
+Pn_PN,oligodendrocyte,10225,0.2857143,0.58441556
+Pn_PN,oligodendrocyte precursor cell,2503,0.2967033,0.44055945
+Pn_PN,pericyte,72,0.003996004,0.3016983
+Pn_PN,vascular associated smooth muscle cell,20,0.006993007,0.7422577
+Pn_XPnTg_DTg,Bergmann glial cell,5,0.9120879,0.005994006
+Pn_XPnTg_DTg,astrocyte,1204,0.1008991,0.8651349
+Pn_XPnTg_DTg,central nervous system macrophage,275,0.044955045,0.021978023
+Pn_XPnTg_DTg,endothelial cell,57,0.011988012,0.33066934
+Pn_XPnTg_DTg,ependymal cell,76,0.04195804,0.96503496
+Pn_XPnTg_DTg,fibroblast,160,0.22177823,0.18681319
+Pn_XPnTg_DTg,leukocyte,19,0.002997003,0.987013
+Pn_XPnTg_DTg,neuron,17996,0.8221778,0.5904096
+Pn_XPnTg_DTg,oligodendrocyte,5123,0.20979021,0.1058941
+Pn_XPnTg_DTg,oligodendrocyte precursor cell,1107,0.43956044,0.72527474
+Pn_XPnTg_DTg,pericyte,54,0.07692308,0.075924076
+Pn_XPnTg_DTg,vascular associated smooth muscle cell,19,0.08991009,0.40959042
+SpC,Bergmann glial cell,7,0.94905096,0.2747253
+SpC,astrocyte,2435,0.051948052,0.016983017
+SpC,central nervous system macrophage,1676,0.32967034,0.101898104
+SpC,choroid plexus epithelial cell,1,0.5834166,NA
+SpC,endothelial cell,215,0.07392608,0.978022
+SpC,ependymal cell,147,0.26973027,0.08391608
+SpC,fibroblast,68,0.25174826,0.10989011
+SpC,leukocyte,219,0.07092907,0.02997003
+SpC,neuron,5819,0.43656343,0.63736266
+SpC,oligodendrocyte,11547,0.7782218,0.6293706
+SpC,oligodendrocyte precursor cell,1970,0.9240759,0.5264735
+SpC,pericyte,78,0.08791209,0.83316684
+SpC,vascular associated smooth muscle cell,8,0.034965035,0.13386613
+THM_ANC,astrocyte,573,0.034965035,0.022977022
+THM_ANC,central nervous system macrophage,452,0.05994006,0.8341658
+THM_ANC,choroid plexus epithelial cell,8,0.17682318,0.05994006
+THM_ANC,endothelial cell,51,0.01998002,0.16683316
+THM_ANC,ependymal cell,90,0.008991009,0.000999001
+THM_ANC,fibroblast,84,0.053946055,0.5134865
+THM_ANC,leukocyte,50,0.012987013,0.002997003
+THM_ANC,neuron,24985,0.74525476,0.6073926
+THM_ANC,oligodendrocyte,3765,0.37062937,0.5184815
+THM_ANC,oligodendrocyte precursor cell,1145,0.47452548,0.8761239
+THM_ANC,pericyte,57,0.03196803,0.2917083
+THM_ANC,vascular associated smooth muscle cell,47,0.050949052,0.63936067
+THM_ILN_PILN_CM,astrocyte,437,0.2057942,0.4885115
+THM_ILN_PILN_CM,central nervous system macrophage,284,0.3046953,0.66033965
+THM_ILN_PILN_CM,endothelial cell,5,0.08491509,0.075924076
+THM_ILN_PILN_CM,fibroblast,87,0.44455543,0.068931065
+THM_ILN_PILN_CM,leukocyte,38,0.02097902,0.14085914
+THM_ILN_PILN_CM,neuron,5997,0.57942057,0.4035964
+THM_ILN_PILN_CM,oligodendrocyte,5522,0.53046954,0.63936067
+THM_ILN_PILN_CM,oligodendrocyte precursor cell,436,0.73626375,0.82617384
+THM_ILN_PILN_CM,pericyte,129,0.12687312,0.5804196
+THM_ILN_PILN_CM,vascular associated smooth muscle cell,9,0.2927073,0.24175824
+THM_ILN_PILN,astrocyte,1224,0.32467532,0.25974026
+THM_ILN_PILN,central nervous system macrophage,640,0.2997003,0.17782217
+THM_ILN_PILN,choroid plexus epithelial cell,1,0.7312687,NA
+THM_ILN_PILN,endothelial cell,59,0.01998002,0.982018
+THM_ILN_PILN,ependymal cell,27,0.21978022,0.18481518
+THM_ILN_PILN,fibroblast,375,0.33166832,0.7982018
+THM_ILN_PILN,leukocyte,37,0.016983017,0.5204795
+THM_ILN_PILN,neuron,15984,0.45954046,0.54345655
+THM_ILN_PILN,oligodendrocyte,5124,0.46453547,0.23676324
+THM_ILN_PILN,oligodendrocyte precursor cell,815,0.45854145,0.0969031
+THM_ILN_PILN,pericyte,45,0.07992008,0.84415585
+THM_ILN_PILN,vascular associated smooth muscle cell,23,0.04995005,0.5984016
+THM_LNC_LP,astrocyte,1851,0.5724276,0.17282717
+THM_LNC_LP,central nervous system macrophage,639,0.18381618,0.11788212
+THM_LNC_LP,endothelial cell,110,0.07892108,0.15084915
+THM_LNC_LP,fibroblast,264,0.09490509,0.4855145
+THM_LNC_LP,leukocyte,45,0.04695305,0.030969031
+THM_LNC_LP,neuron,12519,0.64735264,0.44155845
+THM_LNC_LP,oligodendrocyte,9102,0.40959042,0.3046953
+THM_LNC_LP,oligodendrocyte precursor cell,1460,0.6883117,0.20379621
+THM_LNC_LP,pericyte,170,0.41658342,0.04895105
+THM_LNC_LP,vascular associated smooth muscle cell,12,0.121878125,0.23376623
+THM_LNC_LP+VPL,astrocyte,742,0.3106893,0.55744255
+THM_LNC_LP+VPL,central nervous system macrophage,650,0.24975026,0.33466533
+THM_LNC_LP+VPL,endothelial cell,11,0.17582418,0.7532467
+THM_LNC_LP+VPL,fibroblast,94,0.2117882,0.22677323
+THM_LNC_LP+VPL,leukocyte,20,0.2997003,0.18881118
+THM_LNC_LP+VPL,neuron,1461,0.03696304,0.037962038
+THM_LNC_LP+VPL,oligodendrocyte,14037,0.9130869,0.075924076
+THM_LNC_LP+VPL,oligodendrocyte precursor cell,573,0.5354645,0.46853146
+THM_LNC_LP+VPL,pericyte,67,0.27372628,0.5724276
+THM_LNC_LP+VPL,vascular associated smooth muscle cell,5,0.24775225,0.33366632
+THM_LNC_Pul,Bergmann glial cell,1,0.57042956,NA
+THM_LNC_Pul,astrocyte,2527,0.20379621,0.015984016
+THM_LNC_Pul,central nervous system macrophage,1474,0.27072927,0.34165835
+THM_LNC_Pul,choroid plexus epithelial cell,27,0.16583416,0.5104895
+THM_LNC_Pul,endothelial cell,144,0.07492507,0.6073926
+THM_LNC_Pul,ependymal cell,86,0.011988012,0.46553448
+THM_LNC_Pul,fibroblast,357,0.27572426,0.8431568
+THM_LNC_Pul,leukocyte,59,0.000999001,0.54645354
+THM_LNC_Pul,neuron,30449,0.7312687,0.2957043
+THM_LNC_Pul,oligodendrocyte,9659,0.3116883,0.13686314
+THM_LNC_Pul,oligodendrocyte precursor cell,1392,0.6323676,0.015984016
+THM_LNC_Pul,pericyte,231,0.021978023,0.993007
+THM_LNC_Pul,vascular associated smooth muscle cell,47,0.011988012,0.7082917
+THM_LNC_VA,astrocyte,577,0.3126873,0.31868133
+THM_LNC_VA,central nervous system macrophage,190,0.25374624,0.04295704
+THM_LNC_VA,endothelial cell,12,0.068931065,0.43456542
+THM_LNC_VA,ependymal cell,44,0.023976024,0.21878122
+THM_LNC_VA,fibroblast,73,0.3206793,0.6753247
+THM_LNC_VA,leukocyte,28,0.15584415,0.45354646
+THM_LNC_VA,neuron,4235,0.75424576,0.27072927
+THM_LNC_VA,oligodendrocyte,3181,0.25974026,0.2977023
+THM_LNC_VA,oligodendrocyte precursor cell,221,0.76523477,0.10489511
+THM_LNC_VA,pericyte,11,0.26273727,0.7672328
+THM_LNC_VA,vascular associated smooth muscle cell,1,0.14485514,NA
+THM_LNC_VLN,astrocyte,1369,0.17582418,0.3116883
+THM_LNC_VLN,central nervous system macrophage,976,0.25374624,0.6843157
+THM_LNC_VLN,endothelial cell,52,0.037962038,0.5314685
+THM_LNC_VLN,ependymal cell,9,0.12287712,0.96503496
+THM_LNC_VLN,fibroblast,291,0.3126873,0.33266732
+THM_LNC_VLN,leukocyte,43,0.001998002,0.47252747
+THM_LNC_VLN,neuron,14486,0.76523477,0.61538464
+THM_LNC_VLN,oligodendrocyte,8462,0.37962037,0.27872127
+THM_LNC_VLN,oligodendrocyte precursor cell,1349,0.64235765,0.57942057
+THM_LNC_VLN,pericyte,64,0.32967034,0.114885114
+THM_LNC_VLN,vascular associated smooth muscle cell,10,0.3976024,0.8431568
+THM_LNC_VPL,astrocyte,182,0.05794206,0.026973028
+THM_LNC_VPL,central nervous system macrophage,400,0.07892108,0.25374624
+THM_LNC_VPL,endothelial cell,20,0.04995005,0.47252747
+THM_LNC_VPL,fibroblast,57,0.25874126,0.8701299
+THM_LNC_VPL,leukocyte,15,0.000999001,0.43656343
+THM_LNC_VPL,neuron,2309,0.5024975,0.2937063
+THM_LNC_VPL,oligodendrocyte,3491,0.66733265,0.40759242
+THM_LNC_VPL,oligodendrocyte precursor cell,380,0.73626375,0.18081918
+THM_LNC_VPL,pericyte,22,0.23176824,0.5084915
+THM_LNC_VPL,vascular associated smooth muscle cell,1,0.00999001,NA
+THM_MNC_MD+Re,astrocyte,564,0.18581419,0.4965035
+THM_MNC_MD+Re,central nervous system macrophage,451,0.36963037,0.022977022
+THM_MNC_MD+Re,choroid plexus epithelial cell,2,0.57342654,0.000999001
+THM_MNC_MD+Re,endothelial cell,22,0.037962038,0.23976023
+THM_MNC_MD+Re,ependymal cell,32,0.061938062,0.36463538
+THM_MNC_MD+Re,fibroblast,98,0.7152847,0.12687312
+THM_MNC_MD+Re,leukocyte,25,0.000999001,0.21478522
+THM_MNC_MD+Re,neuron,8918,0.8111888,0.34865135
+THM_MNC_MD+Re,oligodendrocyte,2817,0.35464534,0.066933066
+THM_MNC_MD+Re,oligodendrocyte precursor cell,379,0.5814186,0.053946055
+THM_MNC_MD+Re,pericyte,54,0.043956045,0.16883117
+THM_MNC_MD+Re,vascular associated smooth muscle cell,20,0.006993007,0.77922076
+THM_MNC_MD,astrocyte,533,0.23476523,0.34065935
+THM_MNC_MD,central nervous system macrophage,396,0.33266732,0.33866134
+THM_MNC_MD,endothelial cell,29,0.034965035,0.011988012
+THM_MNC_MD,ependymal cell,120,0.05994006,0.26673326
+THM_MNC_MD,fibroblast,88,0.18981019,0.34265736
+THM_MNC_MD,leukocyte,20,0.002997003,0.7952048
+THM_MNC_MD,neuron,17500,0.966034,0.7952048
+THM_MNC_MD,oligodendrocyte,1842,0.27772227,0.24175824
+THM_MNC_MD,oligodendrocyte precursor cell,335,0.5014985,0.86013985
+THM_MNC_MD,pericyte,36,0.050949052,0.45254746
+THM_MNC_MD,vascular associated smooth muscle cell,17,0.03196803,0.5604396
+THM_PoN_LG,astrocyte,1219,0.03696304,0.002997003
+THM_PoN_LG,central nervous system macrophage,436,0.121878125,0.0969031
+THM_PoN_LG,choroid plexus epithelial cell,1,0.52147853,NA
+THM_PoN_LG,endothelial cell,103,0.006993007,0.4145854
+THM_PoN_LG,fibroblast,452,0.24375625,0.47952047
+THM_PoN_LG,leukocyte,38,0.021978023,1
+THM_PoN_LG,neuron,40223,0.41858143,0.20979021
+THM_PoN_LG,oligodendrocyte,5359,0.4025974,0.9330669
+THM_PoN_LG,oligodendrocyte precursor cell,779,0.53446555,0.10889111
+THM_PoN_LG,pericyte,201,0.06993007,0.10789211
+THM_PoN_LG,vascular associated smooth muscle cell,45,0.05894106,0.45954046
+THM_PoN_MG,astrocyte,299,0.014985015,0.08591408
+THM_PoN_MG,central nervous system macrophage,185,0.2837163,0.08691309
+THM_PoN_MG,endothelial cell,4,0.8141858,0.22677323
+THM_PoN_MG,ependymal cell,1,0.9100899,NA
+THM_PoN_MG,fibroblast,32,0.65434563,0.08691309
+THM_PoN_MG,leukocyte,6,0.004995005,0.3976024
+THM_PoN_MG,neuron,10529,0.8631369,0.8051948
+THM_PoN_MG,oligodendrocyte,2951,0.16283716,0.45754245
+THM_PoN_MG,oligodendrocyte precursor cell,204,0.5764236,0.27972028
+THM_PoN_MG,pericyte,15,0.20379621,0.21678321
+THM_STH,astrocyte,1312,0.14985014,0.1938062
+THM_STH,central nervous system macrophage,836,0.31768233,0.035964034
+THM_STH,endothelial cell,17,0.021978023,0.2027972
+THM_STH,fibroblast,154,0.31768233,0.6233766
+THM_STH,leukocyte,46,0.16383617,0.38161838
+THM_STH,neuron,557,0.075924076,0.3026973
+THM_STH,oligodendrocyte,16202,0.94505495,0.017982017
+THM_STH,oligodendrocyte precursor cell,985,0.26773226,0.58841157
+THM_STH,pericyte,45,0.13986014,0.011988012
+THM_STH,vascular associated smooth muscle cell,8,0.81718284,0.02897103
